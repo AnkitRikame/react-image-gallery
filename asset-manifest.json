@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/react-image-gallery/static/css/main.ecd17a75.chunk.css",
-    "main.js": "/react-image-gallery/static/js/main.479eb4c6.chunk.js",
-    "main.js.map": "/react-image-gallery/static/js/main.479eb4c6.chunk.js.map",
+    "main.css": "/react-image-gallery/static/css/main.f250e70f.chunk.css",
+    "main.js": "/react-image-gallery/static/js/main.d46e6c6e.chunk.js",
+    "main.js.map": "/react-image-gallery/static/js/main.d46e6c6e.chunk.js.map",
     "runtime-main.js": "/react-image-gallery/static/js/runtime-main.1cd10499.js",
     "runtime-main.js.map": "/react-image-gallery/static/js/runtime-main.1cd10499.js.map",
     "static/js/2.c9ccdabf.chunk.js": "/react-image-gallery/static/js/2.c9ccdabf.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.3ec9313a.chunk.js": "/react-image-gallery/static/js/3.3ec9313a.chunk.js",
     "static/js/3.3ec9313a.chunk.js.map": "/react-image-gallery/static/js/3.3ec9313a.chunk.js.map",
     "index.html": "/react-image-gallery/index.html",
-    "static/css/main.ecd17a75.chunk.css.map": "/react-image-gallery/static/css/main.ecd17a75.chunk.css.map",
+    "static/css/main.f250e70f.chunk.css.map": "/react-image-gallery/static/css/main.f250e70f.chunk.css.map",
     "static/js/2.c9ccdabf.chunk.js.LICENSE.txt": "/react-image-gallery/static/js/2.c9ccdabf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1cd10499.js",
     "static/js/2.c9ccdabf.chunk.js",
-    "static/css/main.ecd17a75.chunk.css",
-    "static/js/main.479eb4c6.chunk.js"
+    "static/css/main.f250e70f.chunk.css",
+    "static/js/main.d46e6c6e.chunk.js"
   ]
 }
