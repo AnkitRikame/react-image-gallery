@@ -8,7 +8,8 @@ function ImageApi() {
 
 	const getUsers = async () => {
 		const response = await fetch(
-			"http://www.mocky.io/v2/5ecb5c353000008f00ddd5a0"
+			// "http://www.mocky.io/v2/5ecb5c353000008f00ddd5a0"
+			"https://api.unsplash.com/photos?client_id=LL9LWESDTCo0N_IIepQJ2dDtVvRDLiPp2b00U4APung"
 		);
 		setUsers(await response.json());
 		// console.log(data);
