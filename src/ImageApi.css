@@ -25,3 +25,9 @@
 .api_images{
     box-shadow: 1.2em 1.4em 1em;
 }
+
+@media only screen and (max-width: 700px) {
+ .api_images{ 
+      width: 280px;
+    }
+  }
