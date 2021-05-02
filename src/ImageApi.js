@@ -12,7 +12,7 @@ function ImageApi() {
 			"https://api.unsplash.com/photos?client_id=LL9LWESDTCo0N_IIepQJ2dDtVvRDLiPp2b00U4APung"
 		);
 		setUsers(await response.json());
-		// console.log(data);
+		console.log(data);
 	};
 
 	useEffect(() => {
